@@ -1,0 +1,25 @@
+path: D:/experiments/yolo11/ultralytics-main/dataset  # 数据集所在路径
+train: train.txt  # 数据集路径下的train.txt
+val: val.txt  # 数据集路径下的val.txt
+test: test.txt  # 数据集路径下的test.txt
+
+# Classes
+names:
+  0: rov
+  1: plant
+  2: fish
+  3: starfish
+  4: shells
+  5: crab
+  6: eel
+  7: animal
+  8: trash
+  9: fabric
+  10: fishing_gear
+  11: metal
+  12: paper
+  13: plastic
+  14: rubber
+  15: wood
+
+

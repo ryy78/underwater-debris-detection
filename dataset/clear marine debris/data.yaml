@@ -1,0 +1,21 @@
+path: D:/experiments/yolo11/ultralytics-main/marine litter  # 数据集所在路径
+train: train.txt  # 数据集路径下的train.txt
+val: val.txt  # 数据集路径下的val.txt
+test: test.txt  # 数据集路径下的test.txt
+
+# Classes
+names:
+
+  0: plastic
+  1: animal
+  2: metal
+  3: glass
+  4: fiber
+  5: rubber
+  6: wood
+  7: paper
+  8: cement
+  9: rov
+  10: plant
+  11: unknown_instance
+  12: cup_ceramic
