@@ -8,7 +8,7 @@
 
 Official implementation of **YOLO11-MDA**, a multi-domain visual feature learning framework for robust and efficient underwater debris detection.
 
-> This repository is directly related to the manuscript submitted to **Journal of Real-Time Image Processing**.  
+> This repository is directly related to the manuscript submitted to **Multimedia Systems**.  
 > If you find this work useful, please consider citing the corresponding manuscript.
 
 ---
